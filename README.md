@@ -11,7 +11,7 @@ con l'obiettivo di ridurre costi, emissioni e favorire la collaborazione tra col
 - Registrazione e login utenti
 - Inserimento offerte di passaggi in auto
 - Prenotazione posti disponibili
-- Chat tra passeggeri e guidatori (non ancora implementata)
+- Chat tra passeggeri e guidatori 
 - Gestione profilo personale
 
 ## Requisiti Tecnici
